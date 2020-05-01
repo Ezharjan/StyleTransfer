@@ -8,7 +8,7 @@ STYLE_IMAGE = 'images/style.jpg'
 # 输出图片路径
 OUTPUT_IMAGE = 'output/'
 # 预训练的vgg模型路径
-VGG_MODEL_PATH = 'imagenet-vgg-verydeep-19.mat'
+VGG_MODEL_PATH = 'model/imagenet-vgg-verydeep-19.mat'
 # 图片宽度
 IMAGE_WIDTH = 450
 # 图片高度
