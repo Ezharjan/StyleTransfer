@@ -26,4 +26,4 @@ ALPHA = 1
 # 风格损失权重
 BETA = 500
 # 训练次数
-TRAIN_STEPS = 3000
+TRAIN_STEPS = 7000
